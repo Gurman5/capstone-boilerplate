@@ -60,15 +60,16 @@ The page should include:
 - Short blurb about each team member
 
 ### Team Members
+ 
+|Name|Role|
+|------|-----|
+|Darian Rishon Albuquerque | Project Manager |
+|Gurman Bedi | Developer |
+|Humaid Shamil Jiffrey | Developer |
+|Zac Antoniou | UX |
+|Yu Ray Goh | Business Analyst |
 
-| Name | Role |
-| Darian Rishon Albuquerque | Project Manager |
-| Gurman Bedi | Developer |
-| Humaid Shamil Jiffrey | Developer |
-| Zac Antoniou | UX |
-| Yu Ray Goh | Business Analyst |
-
-Each team member will provide their own photo and short blurb for the final page.
+> Each team member will provide their own photo and short blurb for the final page.
 
 ---
 
