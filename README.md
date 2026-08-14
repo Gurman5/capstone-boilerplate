@@ -1,6 +1,7 @@
-# Garage Boilerplate
+# Team 57 - Developing an OpenEditor Bot Landing Page
 
-> Streamlined Next.js + Firebase monorepo for student capstone projects — batteries included, beginner friendly, free-tier only.
+> The following boilerplate given from Alessio Bonti For Programming Project 1 during Sem 2 2026, and was applied  to showcase Team 57- Developing an OpenEditor Bot's Landing Page.
+
 
 **New here? Read the [step-by-step guide](docs/GUIDE.md)** — it walks you from clone to shipping your first feature. The system diagrams are in [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
 
